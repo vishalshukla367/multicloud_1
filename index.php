@@ -1,7 +1,7 @@
 Welcome to Multi-cloud Training 
 <br />
 <pre>
-<?php>
+<?php
 
 print `ifconfig`;
 
